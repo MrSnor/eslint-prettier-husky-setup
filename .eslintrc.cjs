@@ -30,6 +30,9 @@ module.exports = {
         ],
         'react/react-in-jsx-scope': [
             'off'
+        ],
+        'import/namespace':[
+            'off'
         ]
     },
     env: {
